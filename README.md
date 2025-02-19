@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Valentina Ochoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" />
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
