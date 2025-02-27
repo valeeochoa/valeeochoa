@@ -61,14 +61,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/valentina-ochoa-olguin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<!-- Estadisticas que no me convencen por el momento de ponerlo jeee
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=valeeochoa&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeeochoa&layout=compact&theme=gotham" />
 </a>
-
+-->
 <br><br><br><br><br><br><br>
 
 <div align="center">
