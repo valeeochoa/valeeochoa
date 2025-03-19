@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
 <h1 align="center"><b>Hi , I'm Valentina Ochoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
@@ -70,7 +72,15 @@
 <a href="mailto:vochoaolguin@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
-
+<a href="https://www.linkedin.com/in/valentina-ochoa-olguin" target="_blank">
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>
+                <a href="https://github.com/valeeochoa" target="_blank">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+               <a href="mailto:vochoaolguin@gmail.com">
+                        <i class="fas fa-envelope"></i>
+                 </a>
 </p>
 <!-- Estadisticas que no me convencen por el momento de ponerlo jeee
 <a href="https://github.com/anuraghazra/github-readme-stats">
