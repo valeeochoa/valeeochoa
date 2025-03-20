@@ -8,7 +8,6 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<!--I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.-->
 * **I am interested in Web designing, Android development, and Game development**
 - 🌱 I’m currently learning **React js** and **Next.js**
     <br>
@@ -107,11 +106,12 @@
 ## <h3 align="left">Reach Me!</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/valentina-ochoa-olguin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
-  <a href="mailto:vochoaolguin@gmail.com" target="_blank">
+ <a href="mailto:vochoaolguin@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
+  </a>
+   
+ <a href="https://www.linkedin.com/in/valentina-ochoa-olguin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
   <a href="https://github.com/valeeochoa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" />
