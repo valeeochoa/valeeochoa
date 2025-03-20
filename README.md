@@ -111,12 +111,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:vochoaolguin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
   </a>
   <a href="https://github.com/valeeochoa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" />
   </a>
 </p>
+
 
 <!-- Estadisticas que no me convencen por el momento de ponerlo jeee
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -126,7 +127,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeeochoa&layout=compact&theme=gotham" />
 </a>
 -->
-<br><br><br><br><br><br><br>
+<br><br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
