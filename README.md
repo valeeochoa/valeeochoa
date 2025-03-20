@@ -18,7 +18,92 @@
 <br><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
 
+<table align="center">
+<tr>
+  <td align="top" width="33%">
 
+   <h3 align="center">Frontend</h3>
+    
+   <p align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
+      </a>
+      <a href="https://angular.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="50" />
+      </a>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" />
+      </a>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" height="50" />
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />
+      </a>  
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+      </a>
+    </p>
+
+  </td>
+
+  <td valign="top" width="33%">
+
+   <h3 align="center">Backend & Databases</h3>
+    
+   <p align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
+      </a>  
+      <a href="https://www.electronjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron.js" height="50" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
+      </a>
+    </p>
+
+  </td>
+
+  <td valign="top" width="33%">
+
+   <h3 align="center">Programming Languages & Tools</h3>
+    
+   <p align="center">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+      </a>
+      <a href="https://figma.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" />
+      </a>
+      <a href="https://flutter.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="50" />
+      </a>
+      <a href="https://dart.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="50" />
+      </a>
+      <a href="https://unity.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="50" />
+      </a>
+    </p>
+
+  </td>
+</tr>
+</table>
+
+<!--
 <table align="center">
 <tr><td align="top" width="33%">
 
@@ -56,7 +141,7 @@
 
 </div>
 
-</td></tr></table>
+</td></tr></table>-->
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
